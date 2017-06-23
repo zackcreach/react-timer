@@ -9,7 +9,6 @@ var Countdown = require('Countdown');
 // var Route = require('react-router').Route;
 
 // Load foundation
-require('style!css!foundation-sites/dist/foundation.min.css')
 $(document).foundation();
 
 // App css
